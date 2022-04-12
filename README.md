@@ -3,17 +3,15 @@ Create Your Own Client From A Pre-Made Base
 
 Area51 Information
 ------------------
-My Site: https://outerspace.store/
+My Site: 
 
-Discord Server: discord.gg/copyandpasted
+Discord Server: https://discord.gg/fNz4kSfCgC
 
-Founders: Josh, Fish, Silly
+Founders: Fish, Pip, Silly
 
 Fincial Manager: Silly
 
-Development Team: Fish, Josh, Kanna, Swordsith
-
-Illustrator: Meli (Discord: Gh0st_artz#5464 | Insta: Gh0st_artz)
+Development Team: Fish, Pip
 
 
 About My Client
