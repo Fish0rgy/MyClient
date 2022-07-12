@@ -60,8 +60,7 @@ namespace MyClient.Modules
                     else
                     {
                         OnDisable();
-                    }
-                    Main.Instance.OnUpdateEventArray = Main.Instance.OnUpdateEvents.ToArray();
+                    } 
 
                 }));
             }

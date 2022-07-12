@@ -14,6 +14,6 @@ namespace MyClient.SDK.ButtonAPI
             buttonGroup.GetComponent<GridLayoutGroup>().childAlignment = TextAnchor.MiddleLeft;
             for (int i = 0; i < buttonGroup.transform.childCount; i++)
                 GameObject.Destroy(buttonGroup.transform.GetChild(i).gameObject);
-        }
+        } 
     }
 }
